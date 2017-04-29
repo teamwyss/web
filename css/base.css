@@ -1,0 +1,21 @@
+* {
+	font-family: sans-serif;
+}
+body {
+	background-image: url(../img/bgMinecraft.jpg);
+	background-size: 1300px auto;
+}
+/* --------------------------------------------- */
+.contentMainWrapper {
+	width: 100%;
+}
+.contentMain {
+	border: 2px solid black;
+	width: 500px;
+	background-color: rgba(0,0,0,.5);
+	margin: 60px auto;
+	min-height: 400px;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+}
